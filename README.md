@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sofiane</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiane-ziri&label=Profile%20views&color=0e75b6&style=flat" alt="sofiane-ziri" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofiane-ziri" alt="sofiane-ziri" /></a> </p>
-
 - 🔭 I’m currently working on [my portfolio](https://sofiane-ziri.students-laplateforme.io/)
 
 - 🌱 I’m currently learning **java script , react**
@@ -26,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofiane-ziri&show_icons=true&locale=en" alt="sofiane-ziri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiane-ziri&" alt="sofiane-ziri" /></p>
-
