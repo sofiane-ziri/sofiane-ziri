@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://sofiane-ziri.students-laplateforme.io/)
 
-- 🌱 I’m currently learning **java script , react**
+- 🌱 I’m currently learning **java script , react** , html , css , php 
 
 - 💬 Ask me about **me**
 
